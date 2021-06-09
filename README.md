@@ -4,7 +4,7 @@
 - I’m looking to collaborate on ...
 - How to reach me ...
 
-<a href="https://dan-vial.github.io">https://dan-vial.github.io</a>
+<a href="https://dan-vial.github.io" target="_blank">https://dan-vial.github.io</a>
 <!---
 Dan-Vial/Dan-Vial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
