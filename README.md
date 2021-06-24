@@ -4,6 +4,9 @@
 - Je cherche à collaborer sur...
 - Comment me joindre...
 
+<br>
+<hr>
+<br>
 
 - Hi, I'm @ Dan-Vial
 - I am interested in web programming, design and development.
@@ -11,7 +14,9 @@
 - I'm looking to collaborate on ...
 - How to reach me ... 
 
-
+<br>
+<hr>
+<br>
 <a href="https://dan-vial.github.io" target="_blank">https://dan-vial.github.io</a>
 <!---
 Dan-Vial/Dan-Vial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
