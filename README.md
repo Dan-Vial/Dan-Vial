@@ -1,6 +1,7 @@
 - Salut, je suis @Dan-Vial
 - Je m'intéresse à la programmation web, conception et développement.
-- J'apprends actuellement les langages web. Reconversion professionnelle.
+- J'apprends actuellement les langages web.
+- Je fait reconversion professionnelle.
 - Je cherche à collaborer sur...
 - Comment me joindre...
 
@@ -8,15 +9,6 @@
 <hr>
 <br>
 
-- Hi, I'm @ Dan-Vial
-- I am interested in web programming, design and development.
-- I am currently learning web languages. Professional retraining.
-- I'm looking to collaborate on ...
-- How to reach me ... 
-
-<br>
-<hr>
-<br>
 <a href="https://dan-vial.github.io" target="_blank">https://dan-vial.github.io</a>
 <!---
 Dan-Vial/Dan-Vial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
