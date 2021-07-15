@@ -1,7 +1,7 @@
 - Salut, je suis @Dan-Vial
 - Je m'intéresse à la programmation web, conception et développement.
 - J'apprends actuellement les langages web.
-- Je fait reconversion professionnelle.
+- Je fais reconversion professionnelle.
 - Je cherche à collaborer sur...
 - Comment me joindre...
 
